@@ -1,0 +1,76 @@
+Key,Type,Desc,Arabic [ar-SA],English [en-US]
+Policy #2,Text,,السياسة رقم 2,Policy #2
+What is the impact of reducing subsidies on households?,Text,,ما تأثير تقليص الدعم على الأسر؟,What is the impact of reducing subsidies on households?
+Proposal 1,Text,,الاحتمالية رقم 1,Scenario 1
+"Removal of half the energy subsidy, neutralizing the impact on poor households.",Text,,إلغاء نصف دعم الطاقة، وتجنيب الأسر الفقيرة الآثار المترتبة على ذلك.,"Removal of half the energy subsidy, neutralizing the impact on poor households."
+Proposal 2,Text,,الاحتمالية رقم 2,Scenario 2
+"Large removal of energy subsidy, with a high transfer rebate, neutralizing the impact on low income and poor households.",Text,,إلغاء دعم الطاقة على نطاق واسع مع تعويضات، لتجنيب الأسر منخفضة الدخل والأسر الفقيرة الآثار المترتبة على ذلك.,"Large removal of energy subsidy, with a high compensation transfer, neutralizing the impact on low income and poor households."
+Proposal 3,,,الاحتمالية رقم 3,Scenario 3
+"Complete removal of energy subsidy, with a high transfer rebate, neutralizing the impact on middle class, and giving low income families a boost.",,,إلغاء دعم الطاقة بشكل كامل مع تعويضات، وتجنيب الطبقة المتوسطة الآثار المرتبة على ذلك ومنح مساعدات للعائلات منخفضة الدخل.,"Complete removal of energy subsidy, with a high compensation transfer, neutralizing the impact on middle class, and giving low income families a boost."
+Subsidy Reduction 100%,,,تقليص الدعم بنسبة 100%,Subsidy Reduction 100%
+Transfer Rebate 50%,,,تعويضات بنسبة 50%,Compensation Transfer 50%
+GDP Impact -28%,,,التأثير على إجمالي الناتج المحلي -28%,GDP Impact -28%
+Subsidy reduction sentiment,,,التوجه الإقليمي,Regional sentiment
+Sentiment,,,التوجه,Sentiment
+Positive,,,إيجابي,Positive   
+Neutral,,,محايد,Neutral
+Negative,,,سلبي,Negative 
+Data Range (60 days): 10/07/15 – 12/31/15,,,نطاق البيانات (60 يوماً)؛ 07/10/2015 - 31/12/2015,Data Range (60 days): 10/07/15 – 12/31/15
+Accuracy Rating: 75%-80%,,,تقييم الدقة: 75%-80%,Accuracy Rating: 75%-80%
+"Number of Samples: 57,721 Tweets",,,عدد العينات: 57721 تغريدة,"Number of Samples: 57,721 Tweets"
+National household economic stress map,,,الضغوط الاقتصادية على الأسر,National household economic stress map
+What is the impact of reducing subsidies on households?,,,ما تأثير تقليص الدعم على الأسر؟,What is the impact of reducing subsidies on households?
+Proposal 1,,,الاحتمالية رقم 1,Scenario 1
+"Removal of half the energy subsidy, neutralizing the impact on poor households.",,,إلغاء نصف دعم الطاقة، وتجنيب الأسر الفقيرة الآثار المترتبة على ذلك.,"Removal of half the energy subsidy, neutralizing the impact on poor households."
+Proposal 2,,,الاحتمالية رقم 2,Scenario 2
+"Large removal of energy subsidy, with a high transfer rebate, neutralizing the impact on low income and poor households.",,,إلغاء دعم الطاقة على نطاق واسع مع تعويضات، وتجنيب الأسر منخفضة الدخل والأسر الفقيرة الآثار المترتبة على ذلك.,"Large removal of energy subsidy, with a high compensation transfer, neutralizing the impact on low income and poor households."
+Proposal 3,,,الاحتمالية رقم 3,Scenario 3
+"Complete removal of energy subsidy, with a high transfer rebate, neutralizing the impact on middle class, and giving low income families a boost.",,,إلغاء دعم الطاقة بشكل كامل مع تعويضات، وتجنيب الطبقة المتوسطة الآثار المرتبة على ذلك ومنح مساعدات للعائلات منخفضة الدخل.,"Complete removal of energy subsidy, with a high compensation transfer, neutralizing the impact on middle class, and giving low income families a boost."
+Subsidy Reduction 100%,,,تقليص الدعم بنسبة 100%,Subsidy Reduction 100%
+Transfer Rebate 50%,,,تعويضات بنسبة 50%,Compensation Transfer 50%
+GDP Impact -28%,,,التأثير على إجمالي الناتج المحلي -28%,GDP Impact -28%
+Economic Groups,,,الفئات الاقتصادية,Economic Groups
+1 – Wealthiest,,,$$$ - الطبقة العليا,$$$ – Affluent
+5 – Middle Class,,,$$ - الطبقة المتوسطة,$$ – Middle Class
+8 – Poorest,,,$ - طبقة محدودي الدخل,$ – Poorest
+Tabuk,,,تبوك,Tabuk
+Al Jawf,,,الجوف,Al Jawf
+Ha'il,,,حائل,Ha'il
+Al Madinah,,,المدينة المنورة,Al Madinah
+Al Hudud Ash Shamaliya,,,الحدود الشمالية,Al Hudud Ash Shamaliya
+Al Qasim,,,القصيم,Al Qasim
+Makkah,,,مكة المكرمة,Makkah
+Al Bahah,,,الباحة,Al Bahah
+Ar Riyadh,,,الرياض,Ar Riyadh
+Asir,,,عسير,Asir
+Jizan,,,جازان,Jizan
+Ash Sharqiyah,,,المنطقة الشرقية,Ash Sharqiyah
+Najran,,,نجران,Najran
+Inputs,,,المدخلات,Inputs
+Subsidy Reduction,,,تقليص الدعم,Subsidy Reduction
+Transfer Rebate,,,التعويضات,Compensation Transfer
+x %,,,x %,x %
+GDP Impact (Gross Domestic Product),,,التأثير على إجمالي الناتج المحلي,GDP Impact (Gross Domestic Product)
+Employment,,,العمل,Employment
+Regional Impact Score,,,نسبة التأثير الإقليمي,Regional Impact Score
+Most,,,أقصى نسبة,Most
+Least,,,أقل نسبة,Least
+Total economic stress per capita,,,الضغوط الاقتصادية على الفرد,Economic stress per capita
+Policy #2,,,السياسة رقم 2,Policy #2
+What is the impact of reducing subsidies on households?,,,ما تأثير تقليص الدعم على الأسر؟,What is the impact of reducing subsidies on households?
+Social sentiment map,,,خريطة التوجه الاجتماعي,Social sentiment map
+Riyadh,,,الرياض,Riyadh
+Jiddah,,,جدة,Jiddah
+Medina,,,المدينة المنورة,Medina
+Positive,,,إيجابي,Positive
+Neutral,,,محايد,Neutral
+Negative,,,سلبي,Negative
+Data Range (60 days): 10/07/15 – 12/31/15,,,نطاق التاريخ (60 يوماً)؛ 07/10/2015 - 31/12/2015,Data Range (60 days): 10/07/15 – 12/31/15
+Accuracy rating: 75%-80%,,,تقييم الدقة: 75%-80%,Accuracy rating: 75%-80%
+"Number of samples: 57,721 Tweets",,,عدد العينات: 57721 تغريدة,"Number of samples: 57,721 Tweets"
+Policy #1,,,السياسة رقم 1,Policy #1
+What is the impact of allowing 100% foreign ownership?,,,ما تأثير السماح بتملك الأجانب بنسبة 100%؟,What is the impact of allowing 100% foreign ownership?
+Policy #2,,,السياسة رقم 2,Policy #2
+What is the impact of reducing energy subsidies on households?,,,ما تأثير تقليص دعم الطاقة على الأسر؟,What is the impact of reducing energy subsidies on households?
+Policy #3,,,السياسة رقم 3,Policy #3
+What is the impact of allowing women to drive?,,,ما تأثير السماح للمرأة بقيادة السيارة؟,What is the impact of allowing women to drive?
